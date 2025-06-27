@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background: #eef1f5;
+    padding: 2rem;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+  }
+  
+  button {
+    padding: 0.7rem 1.2rem;
+    font-size: 1rem;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+  
+  pre {
+    background: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+  }
